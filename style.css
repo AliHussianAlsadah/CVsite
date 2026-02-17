@@ -16,7 +16,7 @@ header {
 
 section {
   padding: 2rem;
-  border: 2rem #222;
+  border: 4px #222;
   background: white;
   margin: 1rem auto;
   max-width: 800px;
